@@ -1,0 +1,3 @@
+/home/rey/ENPM702/enpm702_cpp_ws/enpm702_fall2024/rwa1_Roque-Perez/build/out/Debug/CMakeFiles/exercise1.dir
+/home/rey/ENPM702/enpm702_cpp_ws/enpm702_fall2024/rwa1_Roque-Perez/build/out/Debug/CMakeFiles/edit_cache.dir
+/home/rey/ENPM702/enpm702_cpp_ws/enpm702_fall2024/rwa1_Roque-Perez/build/out/Debug/CMakeFiles/rebuild_cache.dir
